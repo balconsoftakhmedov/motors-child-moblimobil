@@ -1,0 +1,154 @@
+/*	
+	Theme Name: Motors - Child Current
+	Theme URI: http://motors.stylemixthemes.com/
+	Author: StylemixThemes
+	Author URI: http://stylemixthemes.com/
+	Description: Motors Child theme
+	Version: 5.0.0
+	License: GNU General Public License v2 or later
+	License URI: http://www.gnu.org/licenses/gpl-2.0.html
+	Tags: blue, red, one-column, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, fixed-layout, fluid-layout, responsive-layout, flexible-header, custom-background, custom-colors, custom-header, custom-menu, editor-style, sticky-post, theme-options
+	Text Domain: motors-child
+    Template: motors
+
+    This theme, like WordPress, is licensed under the GPL.
+    Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+/* Add your own styles here */
+
+.stm-isotope-listing-item .image .stm-listing-compare,
+.stm-isotope-listing-item .image .stm-listing-favorite,
+.stm-isotope-listing-item .image .stm-car-medias{
+    opacity: 1 !important;
+}
+
+.stm-isotope-listing-item .stm-motors-report-listing{
+    position: absolute;
+    left: 42px;
+    bottom: 12px;
+    top: unset !important;
+    padding: 3px 5px 3px 6px;
+    background: rgba(0, 0, 0, 0.3);
+    color: #fff;
+    border-radius: 2px;
+    font-size: 16px;
+    z-index: 20;
+}
+
+.stm-listing-directory-list-loop .stm-motors-report-listing{
+    bottom: 7px;
+}
+
+.stm-listing-car-dealer-info .dealer-contacts .stm-motors-report-listing{
+    background: #e2574c;
+    width: 100%;
+    padding: 10px 10px 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.stm-listing-car-dealer-info .dealer-contacts .stm-motors-report-listing svg{
+    margin: -1px 10px 0 0;
+}
+
+.stm-motors-report-listing svg path{
+    fill: #fff !important;
+}
+
+#stm-motors-report-listing .modal-dialog-centered{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    min-height: calc(100% - (0.5rem * 2));
+
+    max-width: 500px;
+    margin: 1.75rem auto;
+}
+
+#stm-motors-report-listing .modal-dialog-centered .modal-content{
+    width: 100%;
+}
+
+#stm-motors-report-listing .modal-header{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: 1rem;
+    border-bottom: 1px solid #e9ecef;
+    border-top-left-radius: 0.3rem;
+    border-top-right-radius: 0.3rem;
+}
+
+#stm-motors-report-listing .modal-title {
+    margin-bottom: 0;
+    line-height: 1.5;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+#stm-motors-report-listing .modal-header .close {
+    background-color: transparent;
+    border: 0;
+
+    float: right;
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 1;
+    color: #000;
+    text-shadow: 0 1px 0 #fff;
+    opacity: .5;
+    -webkit-appearance: button;
+    cursor: pointer;
+
+    padding: 1rem;
+    margin: -1rem -1rem -1rem auto;
+}
+
+#stm-motors-report-listing .col-form-label{
+    margin: 0 0 10px;
+}
+
+#stm-motors-report-listing .form-control{
+    background: #fff;
+    border: 1px solid #ccc;
+}
+
+.stm-listing-views{
+    line-height: 1.5;
+    margin: 10px 0 0;
+}
+
+.stm-listing-views svg{
+    display: inline;
+    vertical-align: middle;
+    margin: -3px 0 0;
+}
+
+.listing-list-loop .stm-listing-views{
+    margin: -5px 0 10px;
+}
+
+.car-listing-modern-grid .stm-listing-views{
+    margin: 10px 0 -5px;
+}
+
+body.post-type-archive-listings .classic-filter-row{
+    margin-top: 10px !important;
+}
+
+@media screen and (min-width: 576px) {
+    #stm-motors-report-listing .modal-dialog-centered{
+        min-height: calc(100% - (1.75rem * 2));
+    }
+}

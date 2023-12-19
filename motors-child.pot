@@ -1,0 +1,184 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Motors - Child Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-11-07 08:10+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2\n"
+"X-Domain: motors-child"
+
+#: partials/stm-listing-views.php:10
+#, php-format
+msgid "%s view"
+msgid_plural "%s views"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/stm_theme_options_add_options.php:99
+msgid "Badge Background Color"
+msgstr ""
+
+#: inc/stm_theme_options_add_options.php:117
+msgid "Badge Background Color On Hover"
+msgstr ""
+
+#: inc/stm_theme_options_add_options.php:58
+msgid "Badge Text"
+msgstr ""
+
+#: inc/stm_theme_options_add_options.php:108
+msgid "Badge Text Color"
+msgstr ""
+
+#: inc/stm_theme_options_add_options.php:126
+msgid "Badge Text Color On Hover"
+msgstr ""
+
+#: inc/stm_theme_options_add_options.php:67
+msgid "Badge Text size"
+msgstr ""
+
+#: inc/stm_theme_options_add_options.php:38
+msgid "Boost Button Icon"
+msgstr ""
+
+#: inc/stm_theme_options_add_options.php:29
+msgid "Boost Button Text"
+msgstr ""
+
+#: inc/woocommerce_add_custom_product_type.php:55
+msgid "Enter point amount"
+msgstr ""
+
+#: inc/woocommerce_add_custom_product_type.php:62
+msgid "Enter primium Listing Price"
+msgstr ""
+
+#: partials/user/private/user-points.php:45
+msgid "Expire date"
+msgstr ""
+
+#: partials/user/private/user-points.php:25
+msgid "Expire date is over!"
+msgstr ""
+
+#. URI of the theme
+msgid "http://motors.stylemixthemes.com/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://stylemixthemes.com/"
+msgstr ""
+
+#: inc/stm_theme_options_add_options.php:166
+msgid "Left border color"
+msgstr ""
+
+#: inc/stm_theme_options_add_options.php:136
+msgid "Left Border size"
+msgstr ""
+
+#: inc/stm_theme_options_add_options.php:145
+msgid "Left Border Type"
+msgstr ""
+
+#: inc/stm_theme_options_add_options.php:7
+#: inc/stm_theme_options_add_options.php:16
+#: inc/stm_theme_options_add_options.php:25
+#: inc/stm_theme_options_add_options.php:35
+#: inc/stm_theme_options_add_options.php:44
+#: inc/stm_theme_options_add_options.php:55
+#: inc/stm_theme_options_add_options.php:64
+#: inc/stm_theme_options_add_options.php:73
+#: inc/stm_theme_options_add_options.php:96
+#: inc/stm_theme_options_add_options.php:105
+#: inc/stm_theme_options_add_options.php:114
+#: inc/stm_theme_options_add_options.php:123
+#: inc/stm_theme_options_add_options.php:132
+#: inc/stm_theme_options_add_options.php:142
+#: inc/stm_theme_options_add_options.php:163
+#: inc/stm_theme_options_add_options.php:173
+msgid "Main"
+msgstr ""
+
+#. Name of the theme
+msgid "Motors - Child Current"
+msgstr ""
+
+#. Description of the theme
+msgid "Motors Child theme"
+msgstr ""
+
+#: inc/stm_register_custom_vc_shortcode.php:12
+msgid "Page title"
+msgstr ""
+
+#: inc/woocommerce_add_custom_product_type.php:52
+#: partials/user/private/user-points.php:33
+#: partials/user/private/user-points.php:42
+msgid "Point amount"
+msgstr ""
+
+#: inc/stm_theme_options_add_options.php:19
+msgid "Point Button Icon"
+msgstr ""
+
+#: inc/stm_theme_options_add_options.php:10
+msgid "Point Button Label"
+msgstr ""
+
+#: inc/woocommerce_add_custom_product_type.php:26
+msgid "Point data"
+msgstr ""
+
+#: partials/user/private/user-points.php:69
+msgid "Points: %d"
+msgstr ""
+
+#: inc/woocommerce_add_custom_product_type.php:59
+msgid "Price"
+msgstr ""
+
+#: partials/modals/send-report.php:33
+msgid "Send"
+msgstr ""
+
+#: partials/single-car-listing/car-dealer.php:129
+#: partials/modals/send-report.php:7
+#: listings/loop/classified/list/image.php:153
+#: listings/loop/classified/grid/image.php:294
+msgid "Send report"
+msgstr ""
+
+#: inc/stm_theme_options_add_options.php:49
+msgid "Show Badge"
+msgstr ""
+
+#: inc/stm_theme_options_add_options.php:4
+msgid "Show Point Feature"
+msgstr ""
+
+#: inc/stm_register_custom_vc_shortcode.php:8
+msgid "STM General"
+msgstr ""
+
+#: inc/stm_register_custom_vc_shortcode.php:6
+msgid "STM Points Plans"
+msgstr ""
+
+#. Author of the theme
+msgid "StylemixThemes"
+msgstr ""
+
+#: partials/user/private/user-points.php:48
+msgid "You don't have any points"
+msgstr ""

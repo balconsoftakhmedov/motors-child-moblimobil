@@ -1,0 +1,28 @@
+#stm_account_custom_points .point-price{
+	text-align: center;
+    margin-bottom: 2px;
+}
+#stm_account_custom_points ul.points-data li {
+	border: unset;
+    padding: 5px 2px;
+}
+#stm_account_custom_points ul.point-list-group{
+	margin-bottom: 4px;
+}
+#stm_account_custom_points ul.point-list-group li{
+	border: unset;
+    text-align: center;
+}
+
+#stm_account_custom_points .alert {
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+
+}
+#stm_account_custom_points .alert-danger {
+    color: #a94442;
+    background-color: #f2dede;
+    border-color: #ebccd1;
+}
